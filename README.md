@@ -1,4 +1,4 @@
-![Astrojoia logo](graphic_elements/astro_joia_logo_raster.jpg)
+<img src="graphic_elements/astro_joia_logo_raster.jpg" alt="Alt Text" width="300">
 # Astrojoia (Viktor 1 mission)
 
 ## Objectives
