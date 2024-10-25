@@ -17,13 +17,13 @@ Stratospheric ballooning project of Magalhaes family
 * DHT22 temperature sensor module
 * Raspberry Pi camera V2 (with infrared filter)
 
-## Case production
+## Case
 
 * **material**: styrofoam (esferovite)
 * cut wall with a router (designar) with holes for 3d printed rods (+structural strength)
 * glue wall with internal rods
 
-## Important topics
+## Important
 
 * in theory it is necessary to have a license to operate a radio on aprs frequency 
 * in theory 10km is the max range of Radiometrix HX1 radio
