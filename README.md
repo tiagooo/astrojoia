@@ -1,6 +1,6 @@
 # <img src="graphic_elements/astro_joia_logo_raster.jpg" alt="Alt Text" width="300">
 
-Stratospheric ballooning project of Magalhaes family
+Stratospheric ballooning project from Magalhaes family
 
 ## Objectives
 
