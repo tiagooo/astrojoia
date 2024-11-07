@@ -4,15 +4,15 @@ Stratospheric ballooning project from Magalhaes family
 
 ## Objectives
 
-* ascend to 20-30km altitude
-* video record the entire flight
-* measure internal temperature
+* Ascend to 20-30km altitude
+* Video record the entire flight
+* Measure internal temperature
 
 ## Materials
 
-* raspberry pi zero
-* radio transmitter (Radiometrix HX1 144.8mhz)
-* gps receiver (uBLOX MAX-M8C Pico)
+* Raspberry pi zero
+* Radio transmitter (Radiometrix HX1 144.8mhz)
+* GPS receiver (uBLOX MAX-M8C Pico)
 * 3300mah lithium ion batterie 18650
 * DHT22 temperature sensor module
 * Raspberry Pi camera V2 (with infrared filter)
