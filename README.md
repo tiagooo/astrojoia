@@ -28,3 +28,9 @@ Stratospheric ballooning project from Magalhaes family
 * in theory it is necessary to have a license to operate a radio on aprs frequency 
 * in theory 10km is the max range of Radiometrix HX1 radio
 * it is necessary to encode messages (modulation/demodulation) and send them on APRS frequency
+
+## Reference
+
+* [Young Sisters Sent a Weather Balloon to Space]
+
+[Young Sisters Sent a Weather Balloon to Space]: https://www.youtube.com/watch?v=QQkEkmaoMls
