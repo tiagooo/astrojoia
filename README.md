@@ -29,6 +29,10 @@ Stratospheric ballooning project from Magalhaes family
 * in theory 10km is the max range of Radiometrix HX1 radio
 * it is necessary to encode messages (modulation/demodulation) and send them on APRS frequency
 
+## mission 1
+
+Name: Chicken Ship
+
 ## Reference
 
 * [Young Sisters Sent a Weather Balloon to Space]
