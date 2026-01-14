@@ -23,6 +23,17 @@ Stratospheric ballooning project from Magalhaes family
 * cut wall with a router (designar) with holes for 3d printed rods (+structural strength)
 * glue wall with internal rods
 
+## Balloon
+
+* Weather baloon 800 - <https://www.stratoflights.com/en/shop/weather-balloon-800/>
+* The Weather Balloon 800 is particularly suitable for beginners and can carry a payload of up to 800g (28.2oz). This is perfect for projects with one camera. The maximum altitude at which the balloon bursts is 30,000m (14mi).
+
+## Helium  
+
+* <https://www.stratoflights.com/en/tutorial/weather-balloon-tools/helium-calculator/>
+* Assuming 500g payload we need 1 bootle of 20l of helium at 200bar (price: 300€)
+* ref: <https://www.adamsgas.co.uk/product/20l-refillable-helium-gas-cylinder-trade-only/?utm_source=chatgpt.com>
+
 ## Important
 
 * in theory it is necessary to have a license to operate a radio on aprs frequency 
@@ -32,6 +43,7 @@ Stratospheric ballooning project from Magalhaes family
 ## mission 1
 
 Name: Chicken Ship
+Weight (max 500g): Styrofoam (esferovite) box (225g) all elements (400g)
 
 ## Reference
 
